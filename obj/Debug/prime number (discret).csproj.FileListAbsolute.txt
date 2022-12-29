@@ -1,0 +1,7 @@
+C:\Users\Administrator\Source\Repos\prime number (discret)\bin\Debug\prime number (discret).exe.config
+C:\Users\Administrator\Source\Repos\prime number (discret)\bin\Debug\prime number (discret).exe
+C:\Users\Administrator\Source\Repos\prime number (discret)\bin\Debug\prime number (discret).pdb
+C:\Users\Administrator\Source\Repos\prime number (discret)\obj\Debug\prime number (discret).csproj.AssemblyReference.cache
+C:\Users\Administrator\Source\Repos\prime number (discret)\obj\Debug\prime number (discret).csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Source\Repos\prime number (discret)\obj\Debug\prime number (discret).exe
+C:\Users\Administrator\Source\Repos\prime number (discret)\obj\Debug\prime number (discret).pdb
